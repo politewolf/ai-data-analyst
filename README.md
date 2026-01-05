@@ -14,7 +14,7 @@ Built for reliable quick answers and deeper investigations like root-cause analy
 - **Auth & deploy** - run via Docker/Compose/k8s with SSO, RBAC, warehouse inherited permissions, and audit trail  
 - **The Data MCP** - use MCP to interact with your data from Cursor, Claude Desktop, and other AI clients while reliably tracking your requests and data operations
 
-[![Demo](./media/hero3.png)]
+![Demo](./media/hero3.png)
 
 ---
 
